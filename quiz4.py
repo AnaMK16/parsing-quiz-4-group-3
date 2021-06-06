@@ -34,6 +34,6 @@ while page < 6:
         
     
     page += 1
-    sleep(randint(1,3))
+    sleep(randint(10,15))
 
 
